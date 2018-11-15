@@ -1,4 +1,4 @@
-/*AUTOR: NELY HER¡NDEZ GARCÕA
+/*AUTOR: NELY HERN√ÅNDEZ GARC√çA
 FECHA:18/10/2018
 MATERIA: ESTRUCTURA DE DATOS AVANZADAS*/
 #include <iostream>
@@ -10,7 +10,7 @@ MATERIA: ESTRUCTURA DE DATOS AVANZADAS*/
 
 using namespace std;
 
-/****************cCONSTRUCTORES*********/
+/****************CONSTRUCTORES*********/
 
 Grafo::Grafo()
 {
